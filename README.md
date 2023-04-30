@@ -4,4 +4,4 @@ This is a Python code for camera calibration and pose estimation using OpenCV. T
 After the camera is calibrated, the code estimates the pose of the camera using the cv.solvePnP() function, which returns the rotation and translation vectors rvecs and tvecs. The code also draws a coordinate axis on the image to visualize the camera's orientation in space.
 
 #RESULT
-<img src="https://github.com/asadbek002/Video-Cartoon/blob/master/result.screen.jpg" width="500" height="300">
+<img src="https://github.com/asadbek002/Camera_Calibaration/blob/master/result_screenshot.jpg" width="500" height="300">
