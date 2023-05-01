@@ -5,3 +5,6 @@ After the camera is calibrated, the code estimates the pose of the camera using 
 
 # RESULT
 <img src="https://github.com/asadbek002/Camera_Calibaration/blob/master/result_screenshot.jpg" width="500" height="300">
+
+<img src="https://github.com/asadbek002/Camera_Calibaration/blob/master/.idea/video_screenshot.jpg" width="500" height="300">
+
